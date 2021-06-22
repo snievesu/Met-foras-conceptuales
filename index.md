@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Metáforas conceptuales
 
 You can use the [editor on GitHub](https://github.com/snievesu/Met-foras-conceptuales/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
