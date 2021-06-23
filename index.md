@@ -1,9 +1,12 @@
 
-## Welcome to Metáforas conceptuales
+# Metáforas conceptuales
 
-### Markdown
+## Semillero Ex-Machina UdeA
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Descripción
+
+Este proyecto busca....
+
 
 ```markdown
 Syntax highlighted code block
