@@ -40,9 +40,9 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 <html lang="en" dir="ltr" class="client-js"><head>
 <meta charset="UTF-8">
-<title>Metaphor:EMOTIONALLY MILD IS EXPERIENCING MILD TEMPERATURE - EN MetaNet Wiki</title>
+<title>Metáfora:EMOTIONALLY MILD IS EXPERIENCING MILD TEMPERATURE - EN MetaNet Wiki</title>
 <meta name="generator" content="MediaWiki 1.24.2">
-<link rel="ExportRDF" type="application/rdf+xml" title="Metaphor:EMOTIONALLY MILD IS EXPERIENCING MILD TEMPERATURE" href="/pub/en/index.php?title=Special:ExportRDF/Metaphor:EMOTIONALLY_MILD_IS_EXPERIENCING_MILD_TEMPERATURE&amp;xmlmime=rdf">
+<link rel="ExportRDF" type="application/rdf+xml" title="Metáfora:EMOTIONALLY MILD IS EXPERIENCING MILD TEMPERATURE" href="/pub/en/index.php?title=Special:ExportRDF/Metaphor:EMOTIONALLY_MILD_IS_EXPERIENCING_MILD_TEMPERATURE&amp;xmlmime=rdf">
 <link rel="shortcut icon" href="/favicon.ico">
 <link rel="search" type="application/opensearchdescription+xml" href="/pub/en/opensearch_desc.php" title="EN MetaNet Wiki (en)">
 <link rel="EditURI" type="application/rsd+xml" href="https://metaphor.icsi.berkeley.edu/pub/en/api.php?action=rsd">
@@ -87,13 +87,14 @@ mw.loader.load(["ext.smw.style","mediawiki.page.startup","mediawiki.legacy.wikib
 }</script><script src="/pub/en/load.php?debug=false&amp;lang=en&amp;modules=ext.FrameNetQuery%2CJavaScript%2CMetaNetGraph%7Cjquery.accessKeyLabel%2Cclient%2CmwExtension%2CtabIndex%2Cthrottle-debounce%7Cmediawiki.legacy.ajax%2Cwikibits%7Cmediawiki.notify%2Cutil%7Cmediawiki.page.startup%7Cskins.vector.js&amp;skin=vector&amp;version=20210629T112900Z&amp;*"></script><script src="/pub/en/load.php?debug=false&amp;lang=en&amp;modules=ext.jquery.qtip.styles%7Cext.smw.style%7Cext.smw.tooltip.styles&amp;skin=vector&amp;version=20210629T112900Z&amp;*"></script><script src="/pub/en/load.php?debug=false&amp;lang=en&amp;modules=jquery.ui.core%2Cprogressbar%2Cwidget&amp;skin=vector&amp;version=20210629T112900Z&amp;*"></script>
 <!--[if lt IE 7]><style type="text/css">body{behavior:url("/pub/en/skins/Vector/csshover.min.htc")}</style><![endif]-->
 <script type="text/javascript" src="chrome-extension://aggiiclaiamajehmlfpkjmlbadmkledi/popup.js" async=""></script><script type="text/javascript" src="chrome-extension://aggiiclaiamajehmlfpkjmlbadmkledi/tat_popup.js" async=""></script></head>
+	
 <body class="mediawiki ltr sitedir-ltr ns-550 ns-subject page-Metaphor_EMOTIONALLY_MILD_IS_EXPERIENCING_MILD_TEMPERATURE skin-vector action-view vector-animateLayout">
 		<div id="mw-page-base" class="noprint"></div>
 		<div id="mw-head-base" class="noprint"></div>
 		<div id="content" class="mw-body" role="main">
 			<a id="top"></a>
 
-						<h1 id="firstHeading" class="firstHeading" lang="en"><span dir="auto">Metaphor:EMOTIONALLY MILD IS EXPERIENCING MILD TEMPERATURE</span></h1>
+						<h1 id="firstHeading" class="firstHeading" lang="en"><span dir="auto">Metáfora:EMOCIONALMENTE SUAVE ES EXPERIMENTAR UNA TEMPERATURA SUAVE</span></h1>
 						<div id="bodyContent" class="mw-body-content">
 									<div id="siteSub">From EN MetaNet Wiki</div>
 								<div id="contentSub"></div>
@@ -105,7 +106,7 @@ mw.loader.load(["ext.smw.style","mediawiki.page.startup","mediawiki.legacy.wikib
 <tbody><tr style="display:none;">
 <th> Name Gloss
 </th>
-<td> EMOTIONALLY MILD IS EXPERIENCING MILD TEMPERATURE
+<td> EMOCIONALMENTE SUAVE ES EXPERIMENTAR UNA TEMPERATURA SUAVE
 </td></tr>
 <tr style="display:none;">
 <th> Name Transcription
@@ -113,76 +114,77 @@ mw.loader.load(["ext.smw.style","mediawiki.page.startup","mediawiki.legacy.wikib
 <td>
 </td></tr>
 <tr>
-<th> Aliases
+<th> Alias
 </th>
 <td>
 </td></tr>
 <tr>
-<th> Description
+<th> Descripción
 </th>
 <td>
 </td></tr>
 <tr>
-<th> Metaphor Level
+<th> Nivel de metáfora
 </th>
 <td> General
 </td></tr>
 <tr>
-<th> Metaphor Type
+<th> Tipo de metáfora
 </th>
 <td> Primary, Entailed
 </td></tr>
 <tr>
-<th> Experiential Basis
+<th> Base experiencial
 </th>
 <td>
 </td></tr></tbody></table>
 <table class="wikitable">
 <tbody><tr>
-<th> Source Frame
+<th> Dominio Fuente
 </th>
-<td> <a href="/pub/en/index.php/Frame:Temperature" title="Frame:Temperature">Temperature</a><span class="smw-highlighter smwttpersist" data-type="5" data-state="persistent" data-title="Information" data-hasqtip="0"><span class="smwtticon info"></span><div class="smwttcontent"><b>Roles:</b>temperature_scale</div></span>
+<td> <a href="/pub/en/index.php/Frame:Temperature" title="Frame:Temperature">Temperatura</a><span class="smw-highlighter smwttpersist" data-type="5" data-state="persistent" data-title="Information" data-hasqtip="0"><span class="smwtticon info"></span><div class="smwttcontent"><b>Roles:</b>temperature_scale</div></span>
 </td></tr>
 <tr>
-<th> Target Frame
+<th> Dominio Meta
 </th>
-<td> <a href="/pub/en/index.php/Frame:Emotional_intensity" title="Frame:Emotional intensity">Emotional intensity</a><span class="smw-highlighter smwttpersist" data-type="5" data-state="persistent" data-title="Information" data-hasqtip="1"><span class="smwtticon info"></span><div class="smwttcontent"><b>Roles:</b>emotional_intensity_x-schema,  emotional_intensity_scale</div></span>
+<td> <a href="/pub/en/index.php/Frame:Emotional_intensity" title="Frame:Emotional intensity">Intensidad Emocional</a><span class="smw-highlighter smwttpersist" data-type="5" data-state="persistent" data-title="Information" data-hasqtip="1"><span class="smwtticon info"></span><div class="smwttcontent"><b>Roles:</b>emotional_intensity_x-schema,  emotional_intensity_scale</div></span>
 </td></tr></tbody></table>
 <p><br>
-<b>Mappings:</b>
+<b>Mapeos:</b>
 </p><p><br>
-<b>Related Metaphors:</b>
+<b>Metáforas relacionadas:</b>
 </p>
 <table class="wikitable">
 <tbody><tr>
-<th> Current Metaphor
+<th> Matáfora actual
 </th>
-<td> EMOTIONALLY MILD IS EXPERIENCING MILD TEMPERATURE
+<td> EMOCIONALMENTE SUAVE ES EXPERIMENTAR UNA TEMPERATURA SUAVE
 </td></tr>
 <tr>
-<th> Relation Type
+<th> Tipo de relación
 </th>
-<td> is an entailment of
+<td> es un elemento de
 </td></tr>
 <tr>
-<th> Related Metaphor
+<th> Metáfora relacionada
 </th>
-<td> <a href="/pub/en/index.php/Metaphor:EMOTIONAL_INTENSITY_IS_TEMPERATURE" title="Metaphor:EMOTIONAL INTENSITY IS TEMPERATURE">EMOTIONAL INTENSITY IS TEMPERATURE</a>
+<td> <a href="/pub/en/index.php/Metaphor:EMOTIONAL_INTENSITY_IS_TEMPERATURE" title="Metaphor:EMOTIONAL INTENSITY IS TEMPERATURE">INTENSIDAD EMOCIONAL ES TEMPERATURA</a>
 </td></tr>
 <tr>
-<th> Description
+<th> Descripción
 </th>
 <td>
 </td></tr></tbody></table>
-<p><b>Entailments:</b>
+					
+<p><b>Vinculaciones:</b>
 </p><p><br>
-<b>Examples:</b>
+<b>Ejemplos:</b>
 </p>
 <table class="wikitable" style="text-align: left">
 <tbody><tr>
-<th> Example Text:
+<th> Texto de ejemplo:
 </th>
-<td> She's lukewarm about him.
+<td> Ella es tibia con él.
 </td></tr>
 <tr style="display:none;">
 <th> Transcription:
@@ -210,13 +212,13 @@ mw.loader.load(["ext.smw.style","mediawiki.page.startup","mediawiki.legacy.wikib
 <td>
 </td></tr></tbody></table>
 <hr>
-<p><b>Graph of related metaphors:</b>
+<p><b>Gráfico de metáforas relacionadas:</b>
 </p>
 <div id="metaphorrelationstabs" class="ui-tabs ui-widget ui-widget-content ui-corner-all">
 <ul class="ui-tabs-nav ui-helper-reset ui-helper-clearfix ui-widget-header ui-corner-all" role="tablist">
-<li class="ui-state-default ui-corner-top" role="tab" tabindex="-1" aria-controls="tgframetab" aria-labelledby="ui-id-1" aria-selected="false"><a href="#tgframetab" class="ui-tabs-anchor" role="presentation" tabindex="-1" id="ui-id-1">Target frame</a>
-</li><li class="ui-state-default ui-corner-top ui-tabs-active ui-state-active" role="tab" tabindex="0" aria-controls="metaphortab" aria-labelledby="ui-id-2" aria-selected="true"><a href="#metaphortab" class="ui-tabs-anchor" role="presentation" tabindex="-1" id="ui-id-2">Metaphors</a>
-</li><li class="ui-state-default ui-corner-top" role="tab" tabindex="-1" aria-controls="srcframetab" aria-labelledby="ui-id-3" aria-selected="false"><a href="#srcframetab" class="ui-tabs-anchor" role="presentation" tabindex="-1" id="ui-id-3">Source frame</a>
+<li class="ui-state-default ui-corner-top" role="tab" tabindex="-1" aria-controls="tgframetab" aria-labelledby="ui-id-1" aria-selected="false"><a href="#tgframetab" class="ui-tabs-anchor" role="presentation" tabindex="-1" id="ui-id-1">Dominio fuente</a>
+</li><li class="ui-state-default ui-corner-top ui-tabs-active ui-state-active" role="tab" tabindex="0" aria-controls="metaphortab" aria-labelledby="ui-id-2" aria-selected="true"><a href="#metaphortab" class="ui-tabs-anchor" role="presentation" tabindex="-1" id="ui-id-2">Metáfora</a>
+</li><li class="ui-state-default ui-corner-top" role="tab" tabindex="-1" aria-controls="srcframetab" aria-labelledby="ui-id-3" aria-selected="false"><a href="#srcframetab" class="ui-tabs-anchor" role="presentation" tabindex="-1" id="ui-id-3">Dominio meta</a>
 </li></ul>
 <div id="tgframetab" class="gviztab ui-tabs-panel ui-widget-content ui-corner-bottom" aria-labelledby="ui-id-1" role="tabpanel" aria-expanded="false" aria-hidden="true" style="display: none;">
 <div class="graphviz"><!--?xml version="1.0" encoding="UTF-8" standalone="no"?-->
